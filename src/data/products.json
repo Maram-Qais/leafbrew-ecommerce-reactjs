@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Chamomile Dreams",
+    "price": 24.99,
+    "mood": "Calm",
+    "category": "herbal",
+    "image": "/assets/sliders/tea.png",
+    "description": "A soothing blend of organic chamomile flowers that promotes relaxation and peaceful sleep. Perfect for evening rituals and unwinding after a long day.",
+    "ingredients": ["Organic Chamomile Flowers", "Natural Honey Essence"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Green Energy Boost",
+    "price": 28.99,
+    "mood": "Energy",
+    "category": "green",
+    "image": "/assets/sliders/green.png",
+    "description": "A vibrant green tea blend packed with natural caffeine and antioxidants to energize your morning and fuel your day.",
+    "ingredients": ["Organic Green Tea", "Ginseng Root", "Lemon Grass"],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Digestive Harmony",
+    "price": 26.99,
+    "mood": "Digestion",
+    "category": "herbal",
+    "image": "/assets/sliders/ment.png",
+    "description": "A gentle herbal blend designed to support healthy digestion and soothe the stomach after meals.",
+    "ingredients": ["Peppermint", "Ginger Root", "Fennel Seeds", "Organic Chamomile"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Earl Grey Supreme",
+    "price": 32.99,
+    "mood": "Energy",
+    "category": "black",
+    "image": "/assets/sliders/b.png",
+    "description": "A premium Earl Grey with organic bergamot oil and cornflower petals for an elegant afternoon tea experience.",
+    "ingredients": ["Organic Black Tea", "Bergamot Oil", "Cornflower Petals"],
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Lavender Serenity",
+    "price": 25.99,
+    "mood": "Calm",
+    "category": "herbal",
+    "image": "/assets/sliders/miint.png",
+    "description": "Organic lavender buds combined with chamomile for ultimate relaxation and stress relief.",
+    "ingredients": ["Organic Lavender Buds", "Chamomile Flowers", "Lemon Balm"],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Matcha Power",
+    "price": 34.99,
+    "mood": "Energy",
+    "category": "green",
+    "image": "/assets/sliders/browntea.png",
+    "description": "Premium ceremonial grade matcha powder sourced from Japanese tea gardens for sustained energy and focus.",
+    "ingredients": ["Ceremonial Grade Matcha Powder"],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Turmeric Glow",
+    "price": 29.99,
+    "mood": "Digestion",
+    "category": "herbal",
+    "image": "/assets/sliders/mint.png",
+    "description": "Golden turmeric blend with ginger and black pepper for anti-inflammatory benefits and digestive support.",
+    "ingredients": ["Organic Turmeric Root", "Ginger Root", "Black Pepper", "Cinnamon"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Moonlight Mint",
+    "price": 23.99,
+    "mood": "Calm",
+    "category": "herbal",
+    "image": "/assets/sliders/ment.png",
+    "description": "A refreshing peppermint blend perfect for evening relaxation and clearing the mind.",
+    "ingredients": ["Organic Peppermint", "Spearmint", "Lemon Balm"],
+    "featured": false
+  }
+]
